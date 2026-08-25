@@ -12,7 +12,7 @@
 
 ### 🎯 Sobre mí
 
-- 🔧 Como **Desarrollador Java Jr.**, mi objetivo es resolver problemas concretos: automatizar procesos manuales, estructurar datos de forma eficiente y construir aplicaciones que funcionen de manera estable y sean fáciles de mantener.
+- 🔧 Como **Desarrollador Java.**, mi objetivo es resolver problemas concretos: automatizar procesos manuales, estructurar datos de forma eficiente y construir aplicaciones que funcionen de manera estable y sean fáciles de mantener.
 - 🧠 Lo que más me define es la **curiosidad**: me apasiona la tecnología y disfruto entender cómo funciona cada pieza antes de mejorarla.
 - 🤝 Lideré el desarrollo de un **e-commerce full stack** como proyecto práctico en equipo, aplicando tanto el backend en Java como el frontend en HTML, CSS y JavaScript — desde la lógica del catálogo de productos hasta la interfaz que interactúa con esos datos.
 
@@ -46,8 +46,8 @@ Proyecto práctico en equipo donde lideré el desarrollo, integrando backend en 
 ### 📫 Contacto
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cesar-ruiz-f/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:cesar.ruiz.f@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
