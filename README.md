@@ -58,6 +58,11 @@ Asistente de voz local que responde preguntas basándose en documentos PDF propi
 
 > 🔗 [Ver repositorio](https://github.com/adiumx/asistente-voz-rag)
 
+**🌡️ Control Predictivo de Humidificador con Regresión Lineal**
+Diseñé un experimento controlado para modelar la relación entre tiempo de encendido de un humidificador y el cambio resultante en humedad, e implementé regresión lineal por mínimos cuadrados desde cero en C++ embebido (Arduino). El diseño resuelve un problema real: el control por umbral simple generaba sobrepaso (overshoot) por el retraso de lectura del sensor, así que en su lugar el sistema predice de antemano cuánto tiempo activar el humidificador para alcanzar el objetivo. Comparé el enfoque contra un controlador PI clásico, con mejor desempeño práctico del modelo de regresión.
+
+> 🔗 [Ver repositorio](https://github.com/adiumx/arduino/tree/master/Humidificador)
+
 **🛒 E-commerce Full Stack — Pa'La Asada**
 Lideré el desarrollo de un e-commerce con Java, Spring Boot y MySQL en equipo de 8 personas durante 5 sprints, gestionando la planificación en Jira y la integración frontend-backend (APIs REST).
 
